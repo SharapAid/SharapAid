@@ -1,7 +1,7 @@
 <h1 align="center">🎉 Welcome to My Coding Chaos 🎉</h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/3e/2a/3e/3e2a3e9e6f3e2e3e3e2a3e9e6f3e2e3e.gif" width="250" alt="anime laughing gif"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fotkritkis.com%2Fsmeshnye-anime-gifki-30-animirovannyh-kartinok%2F&psig=AOvVaw3GB9cxZ7DpIRW7EP80t8-x&ust=1753691257917000&source=images&opi=89978449"/>
 </p>
 
 ---
