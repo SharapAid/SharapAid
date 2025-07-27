@@ -1,7 +1,7 @@
-<h1 align="center">🎉 Welcome to My Coding Chaos 🎉</h1>
+<h1 align="center">🌊 Hey, I’m 𝕊𝕙𝕒𝕣𝕒𝕡𝔸𝕚𝕕 🌊</h1>
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fotkritkis.com%2Fsmeshnye-anime-gifki-30animirovannyhkartinok%2F&psig=AOvVaw3GB9cxZ7DpIRW7EP80t8x&ust=1753691257917000&source=images&opi=89978449">
+  <img src="https://otkritkis.com/wp-content/uploads/2022/06/sb4co.gif" alt="My foto type" width="300"/>
 </p>
 
 ---
@@ -27,32 +27,22 @@
 
 ---
 
-### 😂 Mood Board: My Code in Action
+### 🧪 Fun Facts:
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/0f/3d/0f/0f3d0f3d0f3d0f3d0f3d0f3d0f3d0f3d.gif" alt="anime scream gif" width="150"/>
-  <img src="https://i.pinimg.com/originals/1a/2b/1a/1a2b1a2b1a2b1a2b1a2b1a2b1a2b1a2b.gif" alt="anime fall gif" width="150"/>
-  <img src="https://i.pinimg.com/originals/2c/3d/2c/2c3d2c3d2c3d2c3d2c3d2c3d2c3d2c3d.gif" alt="anime chaos gif" width="150"/>
-  <img src="https://i.pinimg.com/originals/4d/5e/4d/4d5e4d5e4d5e4d5e4d5e4d5e4d5e4d5e.gif" alt="anime panic gif" width="150"/>
-</p>
-
-_(This is me when my code compiles... and when it doesn’t.)_
+- My coffee brews faster than my **Hello World** ever runs  
+- I once froze Visual Studio with a loop that was... infinite.  
+- Commit messages I *actually* write: `pls_no_runtime_error`
 
 ---
 
-### 🧪 Fun Facts
-
-- ☕ My coffee brews faster than my `Hello World` compiles  
-- 🔁 I once created an infinite loop that froze my soul  
-- 🧠 Commit messages I actually write: `pls_compile`, `final_fix_v3`, `why`
-
----
-
-### 🔧 Currently Tinkering:
+### 🔧 Tinkering Right Now:
 
 ```cpp
 #include <iostream>
 int main() {
-    std::cout << "If anime characters can scream this loud, so can my compiler." << std::endl;
+    std::cout << "If water can burn, I might finally get C++!" << std::endl;
     return 0;
 }
+```
+
+---
