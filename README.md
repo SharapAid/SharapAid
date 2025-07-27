@@ -1,46 +1,43 @@
-
 <h1 align="center">🔥 What's up, I'm 𝕊𝕙𝕒𝕣𝕒𝕡𝔸𝕚𝕕 🔥</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="250" alt="exploding computer penguin" />
+  <img src="IMAGE_URL" width="250" alt="anime water surprised face" />
 </p>
 
 ---
 
-### 👾 Who am I?
+### 🎮 Who am I?
 
-- 🧠 I'm **just starting out** in the magical (and occasionally terrifying) world of programming.  
-- 🧰 I write **C++**. That's it. Pure, raw, explosive C++.
-- 🐧 Linux lover — mostly because Tux doesn’t judge me.
-- 💻 I once made a function so infinite it tried to email itself.
+- 💻 Visual Studio user by day, C++ noob by night.
+- 🧰 Writing **pure C++**, because I like living dangerously.
+- 🐧 Linux rebel—because Windows has trust issues.
+- 🌊 Once saw water catch fire in anime and thought:  
+  **"What the hell, water burns?!"**
 
 ---
 
-### 🛠️ My Tech Toolbox:
+### 🛠️ My Toolkit:
 <p>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Vim-%2357A143.svg?style=for-the-badge&logo=vim&logoColor=white"/>
 </p>
 
 ---
 
-### 🤹‍♂️ Fun Facts About Me:
+### 🤡 Fun Facts:
 
-- I once wrote a "Hello World" that crashed my terminal.
-- My Git commits are 50% code, 50% "pls work".
-- Dark theme is not a choice. It’s a lifestyle.
+- My code runs slower than my microwave.
+- I once forced my IDE to crash with infinite loops.
+- My commit messages: `hope_this_saves_me_bug_reports`.
 
 ---
 
-### 🔧 Currently tinkering with:
+### 🔧 Currently tinkering:
 
 ```cpp
 #include <iostream>
 int main() {
-    std::cout << "SharapAid is learning C++... and possibly summoning demons" << std::endl;
+    std::cout << "If water can burn, I can learn C++!" << std::endl;
     return 0;
 }
-```
-
----
