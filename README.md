@@ -1,7 +1,7 @@
 <h1 align="center">🌊 Hey, I’m 𝕊𝕙𝕒𝕣𝕒𝕡𝔸𝕚𝕕 🌊</h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/TAVbWno8DCMAAAAd/grand-blue-vodka-anime.gif" width="250" alt="anime shocked ocean reaction"/>
+  <img src="[https://media.tenor.com/TAVbWno8DCMAAAAd/grand-blue-vodka-anime.gif](https://tenor.com/ru/view/grand-blue-vodka-anime-vodka-water-gif-19209994)" width="250" alt="anime shocked ocean reaction"/>
 </p>
 
 ---
