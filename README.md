@@ -1,7 +1,8 @@
-<h1 align="center">🔥 Hey there, I'm 𝕊𝕙𝕒𝕣𝕒𝕡𝔸𝕚𝕕 🔥</h1>
+
+<h1 align="center">🔥 What's up, I'm 𝕊𝕙𝕒𝕣𝕒𝕡𝔸𝕚𝕕 🔥</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="200" alt="funny penguin" />
+  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="250" alt="exploding computer penguin" />
 </p>
 
 ---
@@ -9,11 +10,9 @@
 ### 👾 Who am I?
 
 - 🧠 I'm **just starting out** in the magical (and occasionally terrifying) world of programming.  
-- 🧰 I write **C++**. That's it. Pure, raw, metal C++.
-- 🐧 Linux lover — mostly because Windows gave up on me.
-- 💣 I broke my own PC with a recursive function once. It was beautiful.
-- 🔥 Current mood: 
-  > "Segmentation fault (core dumped)"
+- 🧰 I write **C++**. That's it. Pure, raw, explosive C++.
+- 🐧 Linux lover — mostly because Tux doesn’t judge me.
+- 💻 I once made a function so infinite it tried to email itself.
 
 ---
 
@@ -28,9 +27,9 @@
 
 ### 🤹‍♂️ Fun Facts About Me:
 
-- I once wrote a "Hello World" that took 30 lines... and I regret nothing.
-- My Git commits are 50% code, 50% panic fixes.
-- I use dark theme not because it's cool, but because my code is *too bright*.
+- I once wrote a "Hello World" that crashed my terminal.
+- My Git commits are 50% code, 50% "pls work".
+- Dark theme is not a choice. It’s a lifestyle.
 
 ---
 
@@ -39,6 +38,9 @@
 ```cpp
 #include <iostream>
 int main() {
-    std::cout << "SharapAid is learning C++... wish me luck!" << std::endl;
+    std::cout << "SharapAid is learning C++... and possibly summoning demons" << std::endl;
     return 0;
 }
+```
+
+---
