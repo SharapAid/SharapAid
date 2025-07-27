@@ -1,20 +1,20 @@
-<h1 align="center">🌊 Hey, I’m 𝕊𝕙𝕒𝕣𝕒𝕡𝔸𝕚𝕕 🌊</h1>
+<h1 align="center">🎉 Welcome to My Coding Chaos 🎉</h1>
 
 <p align="center">
-  <img src="[https://media.tenor.com/TAVbWno8DCMAAAAd/grand-blue-vodka-anime.gif](https://tenor.com/ru/view/grand-blue-vodka-anime-vodka-water-gif-19209994)" width="250" alt="anime shocked ocean reaction"/>
+  <img src="https://media.tenor.com/0AVu9zjzqSMAAAAC/anime-funny.gif" width="250" alt="anime laughing gif"/>
 </p>
 
 ---
 
 ### 💡 About Me
 
-- 💻 Learning **pure C++**, no frameworks, no shortcuts — just raw loops and caffeinated dreams  
-- 🐧 Linux lover — Tux doesn’t judge my `core dumps`  
-- 🎌 Obsessed with anime, especially when water starts randomly catching fire  
-- 🎮 Retro pixel games keep my heart full and my code messy  
-- ☕ Commit-powered by coffee: `pls_no_runtime_error`
-- 💬 Favorite quote from *Grand Blue*:  
-  **“Why is the water burning?” — “You lit it.”**
+- 💻 I code in **C++** like it’s a boss battle — no frameworks, just raw loops and caffeine  
+- 🐧 Linux is my crash pad (literally)  
+- 🎌 Anime fuels my soul — especially when characters scream for no reason  
+- 🎮 Pixel art games are my aesthetic  
+- ☕ Coffee is my debugger  
+- 💬 Favorite quote:  
+  **“Why is this compiling?” — “No idea, but don’t touch it.”**
 
 ---
 
@@ -27,25 +27,24 @@
 
 ---
 
-### 😂 My Face While Compiling
+### 😂 Mood Board: My Code in Action
 
 <p align="center">
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/936069807059188392/1537303E7B2F1D52A28912E84DD04A9E8B6E08E9/" alt="vodka fire scene" width="150"/>
-  <img src="https://i.redd.it/1o6c0eisxds21.jpg" alt="reaction moment" width="150"/>
-  <img src="https://media.tenor.com/TAVbWno8DCMAAAAd/grand-blue-vodka-anime.gif" alt="burning water gif" width="150"/>
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/802035793412335581/E7507F20E3F2BD99DAEE9C61A548BC3CD3FA9D61/" alt="stunned scene" width="150"/>
+  <img src="https://media.tenor.com/0AVu9zjzqSMAAAAC/anime-funny.gif" alt="laughing anime gif" width="150"/>
+  <img src="https://media.tenor.com/2Z0vKXzvKZkAAAAC/anime-scream.gif" alt="anime scream gif" width="150"/>
+  <img src="https://media.tenor.com/1zQZKZKZKZkAAAAC/anime-fall.gif" alt="anime fall gif" width="150"/>
+  <img src="https://media.tenor.com/3Z0vKXzvKZkAAAAC/anime-chaos.gif" alt="anime chaos gif" width="150"/>
 </p>
 
-_(When my code compiles: 🙌  
-When it doesn’t: 🔥 “This isn't water...” )_
+_(This is me when my code compiles... and when it doesn’t.)_
 
 ---
 
 ### 🧪 Fun Facts
 
-- ☕ My coffee finishes brewing faster than `Hello World` compiles  
-- 🔁 Froze Visual Studio with an infinite loop once (it fought back)  
-- 🧠 Favorite commit messages: `final_fix_3_pls_work`, `why`, `abandon_all_hope`
+- ☕ My coffee brews faster than my `Hello World` compiles  
+- 🔁 I once created an infinite loop that froze my soul  
+- 🧠 Commit messages I actually write: `pls_compile`, `final_fix_v3`, `why`
 
 ---
 
@@ -54,6 +53,6 @@ When it doesn’t: 🔥 “This isn't water...” )_
 ```cpp
 #include <iostream>
 int main() {
-    std::cout << "If water can burn, I might finally understand C++!" << std::endl;
+    std::cout << "If anime characters can scream this loud, so can my compiler." << std::endl;
     return 0;
 }
