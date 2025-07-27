@@ -1,17 +1,17 @@
 <h1 align="center">🎉 Welcome to My Coding Chaos 🎉</h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/0AVu9zjzqSMAAAAC/anime-funny.gif" width="250" alt="anime laughing gif"/>
+  <img src="https://i.pinimg.com/originals/3e/2a/3e/3e2a3e9e6f3e2e3e3e2a3e9e6f3e2e3e.gif" width="250" alt="anime laughing gif"/>
 </p>
 
 ---
 
 ### 💡 About Me
 
-- 💻 I code in **C++** like it’s a boss battle — no frameworks, just raw loops and caffeine  
+- 💻 I code in **C++** like it’s a boss battle — no frameworks, just raw loops and caffeinated dreams  
 - 🐧 Linux is my crash pad (literally)  
 - 🎌 Anime fuels my soul — especially when characters scream for no reason  
-- 🎮 Pixel art games are my aesthetic  
+- 🎮 Pixel art games keep my heart full and my code messy  
 - ☕ Coffee is my debugger  
 - 💬 Favorite quote:  
   **“Why is this compiling?” — “No idea, but don’t touch it.”**
@@ -30,10 +30,10 @@
 ### 😂 Mood Board: My Code in Action
 
 <p align="center">
-  <img src="https://media.tenor.com/0AVu9zjzqSMAAAAC/anime-funny.gif" alt="laughing anime gif" width="150"/>
-  <img src="https://media.tenor.com/2Z0vKXzvKZkAAAAC/anime-scream.gif" alt="anime scream gif" width="150"/>
-  <img src="https://media.tenor.com/1zQZKZKZKZkAAAAC/anime-fall.gif" alt="anime fall gif" width="150"/>
-  <img src="https://media.tenor.com/3Z0vKXzvKZkAAAAC/anime-chaos.gif" alt="anime chaos gif" width="150"/>
+  <img src="https://i.pinimg.com/originals/0f/3d/0f/0f3d0f3d0f3d0f3d0f3d0f3d0f3d0f3d.gif" alt="anime scream gif" width="150"/>
+  <img src="https://i.pinimg.com/originals/1a/2b/1a/1a2b1a2b1a2b1a2b1a2b1a2b1a2b1a2b.gif" alt="anime fall gif" width="150"/>
+  <img src="https://i.pinimg.com/originals/2c/3d/2c/2c3d2c3d2c3d2c3d2c3d2c3d2c3d2c3d.gif" alt="anime chaos gif" width="150"/>
+  <img src="https://i.pinimg.com/originals/4d/5e/4d/4d5e4d5e4d5e4d5e4d5e4d5e4d5e4d5e.gif" alt="anime panic gif" width="150"/>
 </p>
 
 _(This is me when my code compiles... and when it doesn’t.)_
