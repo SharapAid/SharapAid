@@ -8,22 +8,11 @@
 
 ### 💡 About Me
 
-- 💻 I code in **C++** like it’s a boss battle — no frameworks, just raw loops and caffeinated dreams  
-- 🐧 Linux is my crash pad (literally)  
+- 💻 I code in **C++** and **Java**
 - 🎌 Anime fuels my soul — especially when characters scream for no reason  
-- 🎮 Pixel art games keep my heart full and my code messy  
-- ☕ Coffee is my debugger  
+- 🎮 Pixel art games keep my heart full and my code messy   
 - 💬 Favorite quote:  
   **“Why is this compiling?” — “No idea, but don’t touch it.”**
-
----
-
-### ⚙️ My Tools:
-<p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
 
 ---
 
